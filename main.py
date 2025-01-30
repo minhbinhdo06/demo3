@@ -22,3 +22,4 @@ for i in range(10):
 print("\n----------------------------------")
 print(f"Danh sách số đã nhập: {numbers}")
 print(f"Tổng của 10 số: {total}")
+print("Minh đẹp trai vlll")
